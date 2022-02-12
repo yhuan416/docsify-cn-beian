@@ -1,6 +1,17 @@
 # docsify-cn-beian
 
-> docsify备案插件
+
+
+[![](https://data.jsdelivr.com/v1/package/gh/yhuan416/docsify-cn-beian/badge)](https://www.jsdelivr.com/package/gh/yhuan416/docsify-cn-beian)
+![GitHub top language](https://img.shields.io/github/languages/top/yhuan416/docsify-cn-beian)
+[![](https://img.shields.io/github/license/yhuan416/docsify-cn-beian)](https://github.com/yhuan416/docsify-cn-beian/blob/main/LICENSE)
+[![](https://img.shields.io/github/v/release/yhuan416/docsify-cn-beian?display_name=tag)](https://github.com/yhuan416/docsify-cn-beian/)
+[![](https://img.shields.io/github/stars/yhuan416/docsify-cn-beian?style=social)](https://github.com/yhuan416/docsify-cn-beian/)
+
+
+docsify备案插件
+
+---
 
 ## Usage
 
