@@ -17,8 +17,8 @@ docsify备案插件
 
 1. add script
 ``` html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yhuan416/docsify-cn-beian/src/docsify-cn-beian.css">
-<script src="https://cdn.jsdelivr.net/gh/yhuan416/docsify-cn-beian/src/docsify-cn-beian.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yhuan416/docsify-cn-beian@latest/src/docsify-cn-beian.css">
+<script src="https://cdn.jsdelivr.net/gh/yhuan416/docsify-cn-beian@latest/src/docsify-cn-beian.js"></script>
 ```
 
 2. add config
