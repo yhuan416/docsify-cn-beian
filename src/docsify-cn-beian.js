@@ -3,6 +3,7 @@
  * Copyright (c) 2022 yhuan416
  * Github @yhuan416
  */
+"use strict";
 const beianOptions = {
     debug: false,
     align: "left",
