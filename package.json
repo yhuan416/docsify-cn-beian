@@ -1,0 +1,24 @@
+{
+  "name": "docsify-cn-beian",
+  "version": "0.0.4",
+  "description": "A docsify plugins for Chinese Beian",
+  "main": "src/docsify-cn-beian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhuan416/docsify-cn-beian.git"
+  },
+  "keywords": [
+    "docsify",
+    "beian",
+    "chinese"
+  ],
+  "author": "yhuan416 <yhuan416@foxmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhuan416/docsify-cn-beian/issues"
+  },
+  "homepage": "https://github.com/yhuan416/docsify-cn-beian#readme"
+}
